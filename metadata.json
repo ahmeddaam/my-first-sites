@@ -1,0 +1,6 @@
+{
+  "name": "ملاحظاتي - تبويبات وملاحظات تفاعلية",
+  "description": "تطبيق متطور لتنظيم الملاحظات والمهام في تبويبات مرنة قابلة للتعديل مع ميزة تمييز الملاحظات المنجزة باللون الأخضر.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
